@@ -2,6 +2,8 @@
 
 > Nuxt.js project: Blog
 
+## [Run it](https://nuxt-blog99.herokuapp.com/)
+
 ## Build Setup
 
 ``` bash
